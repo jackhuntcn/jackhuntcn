@@ -34,6 +34,8 @@ Kaggle
 - 🥈 Optiver Realized Volatility Prediction 190/3852 银牌
 - 🥈 Feedback Prize - Evaluating Student Writing 77/2060 银牌
 - 🏅 NBME - Score Clinical Patient Notes 8/1471 金牌
+- 🏅 U.S. Patent Phrase to Phrase Matching 11/1889 金牌
+- 🥉 Foursquare - Location Matching 60/1079 铜牌
 
 国内
 
