@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 - 🥉 2023 Stable Diffusion - Image to Prompts 107/1231 铜牌
 - 🥉 2023 Parkinson's Freezing of Gait Prediction 84/1379 铜牌
 - 🥉 2023 Predict Student Performance from Game Play 116/2051 铜牌
+- 🏅 2023 Kaggle - LLM Science Exam 15/2662 金牌
 
 国内
 
