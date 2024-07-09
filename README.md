@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 - 🥈 2023 CommonLit - Evaluate Student Summaries 48/2064 银牌
 - 🥉 2023 Child Mind Institute - Detect Sleep States 129/1877 铜牌
 - 🥈 2024 Enefit - Predict Energy Behavior of Prosumers 38/2731 银牌
+- 🏅 2-24 Learning Agency Lab - Automated Essay Scoring 2.0 5/2706 金牌
 
 国内
 
