@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 - 🏅 2024 LEAP - Atmospheric Physics using AI (ClimSim) 8/693 金牌
 - 🥈 2024 Eedi - Mining Misconceptions in Mathematics 32/1446 银牌
 - 🥉 2025 Santa 2024 - The Perplexity Permutation Puzzle 141/1514 铜牌
+- 🥉 2025 CIBMTR - Equity in post-HCT Survival Predictions 244/3325 铜牌
 
 国内
 
