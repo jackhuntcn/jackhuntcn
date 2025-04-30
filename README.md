@@ -72,8 +72,9 @@ Here are some ideas to get you started:
 - 🥈 2023 AFAC2023-金融数据理解-赛题2 金融行情观点生成和合规检测 亚军
 - 🏅 2023 讯飞移动广告营销场景下的人群召回算法挑战赛 冠军
 - 🥈 2023 讯飞基于用户画像的商品推荐挑战赛2.0 亚军
+- 🥉 2024 国家智慧教育平台数据创新应用活动—题目五用户行为个性化预测 5/300
 
-其他
+会议赛
 
 - 2023 Amazon KDD Cup Leaderboard 4th (Task 1: 7th, Task 2: 5th, Task 3: 11th)
- 
+- 2025 WWW 2025: SMARTMEM MEMORY FAILURE PREDICTION COMPETITION 4th
