@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 - 🥉 2025 Santa 2024 - The Perplexity Permutation Puzzle 141/1514 铜牌
 - 🥉 2025 CIBMTR - Equity in post-HCT Survival Predictions 244/3325 铜牌
 - 🥈 2025 Jane Street Real-Time Market Data Forecasting 75/3757 银牌
+- 🥈 2025 MAP - Charting Student Math Misunderstandings 30/1858 银牌
 
 国内
 
