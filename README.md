@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - 🥈 2025 Jane Street Real-Time Market Data Forecasting 75/3757 银牌
 - 🥈 2025 MAP - Charting Student Math Misunderstandings 30/1858 银牌
 - 🥉 2025 Jigsaw - Agile Community Rules Classification 176/2437 铜牌
-- 🏅 2026 NFL Big Data Bowl 2026 - Prediction 3/771 金牌
+- 🏅 2026 NFL Big Data Bowl 2026 - Prediction 3/1899 金牌
 
 国内
 
