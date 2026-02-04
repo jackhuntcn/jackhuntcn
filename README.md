@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=jackhuntcn&show_icons=true&theme=cobalt">
-
 - 🔭 现为运维工程师
 - 🌱 数据竞赛爱好者
 
@@ -57,6 +55,7 @@ Here are some ideas to get you started:
 - 🥈 2025 MAP - Charting Student Math Misunderstandings 30/1858 银牌
 - 🥉 2025 Jigsaw - Agile Community Rules Classification 176/2437 铜牌
 - 🏅 2026 NFL Big Data Bowl 2026 - Prediction 3/1899 金牌
+- 🥉 2026 Santa 2025 - Christmas Tree Packing Challenge 249/3357 铜牌
 
 国内
 
