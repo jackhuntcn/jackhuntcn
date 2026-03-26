@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 - 🥉 2025 Jigsaw - Agile Community Rules Classification 176/2437 铜牌
 - 🏅 2026 NFL Big Data Bowl 2026 - Prediction 3/1899 金牌
 - 🥉 2026 Santa 2025 - Christmas Tree Packing Challenge 249/3357 铜牌
+- 🥈 2026 Deep Past Challenge - Translate Akkadian to English 26/2673 银牌
 
 国内
 
