@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![My GitFut card](https://gitfut.com/jackhuntcn.png)](https://gitfut.com/jackhuntcn)
+
 - 🔭 现为运维工程师
 - 🌱 数据竞赛爱好者
 
@@ -85,3 +87,4 @@ Here are some ideas to get you started:
 
 - 2023 Amazon KDD Cup Leaderboard 4th (Task 1: 7th, Task 2: 5th, Task 3: 11th)
 - 2025 WWW 2025: SMARTMEM MEMORY FAILURE PREDICTION COMPETITION 4th
+
